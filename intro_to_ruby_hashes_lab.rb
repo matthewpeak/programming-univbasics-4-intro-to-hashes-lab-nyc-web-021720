@@ -3,11 +3,16 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {:eyes => 2}
+  my_hash = {
+    :eyes => 2
+    
+  }
 end
 
 def pioneer
-  pioneer = {:id=> 'Grace Hopper'}
+   pioneer = {
+    :name => "Grace Hopper"
+  }
 end
 
 def id_generator
